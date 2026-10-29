@@ -1,4 +1,4 @@
-## Basti8D
+## Hallo, ich bin Bastian Lehmann
 
 Ich bin Schüler an der Technischen Informatikmittelschule (IMS-T) am GBS St. Gallen mit Schwerpunkt Applikationsentwicklung.
 
