@@ -30,7 +30,7 @@ Ich interessiere mich besonders für Softwareentwicklung, systemnahe Programmier
 
 ![Hyprland](https://img.shields.io/badge/-Hyprland-58E1FF?logo=hyprland&logoColor=black&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=linux&logoColor=white&style=for-the-badge)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)
 ![CachyOS](https://img.shields.io/badge/-CachyOS-00AA88?logo=cachyos&logoColor=white&style=for-the-badge)
 
 ### Projekte
