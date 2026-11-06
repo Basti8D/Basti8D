@@ -41,17 +41,17 @@ Eine Business Applikation zur Verwaltung der IMS-T. Es wird mit .NET Blazor entw
 
 #### ShutterControl
 
-Eine Netzwerkbasierte Steuerung für die Jalousien. Dieses Projekt wurde in der Schule mit C/C++ umgesetzt.
+Eine netzwerkbasierte Steuerung für die Jalousien. Dieses Projekt wurde in der Schule mit C/C++ umgesetzt.
 [Zum Repository](https://github.com/ims-t/project.shuttercontrol)
 
 #### SDL Joystick
 
-Eine Lautstärkesteuerung durch meinen Flightstick. Dieses Projekt verwendet SDL_Joystick um die Eingaben von meinem Joystick zu lesen und die Windows API um die Lautstärke zu steuern.
+Eine Lautstärkesteuerung durch meinen Flightstick. Dieses Projekt verwendet SDL_Joystick um die Eingaben von meinem Joystick zu lesen und die Windows API, um die Lautstärke zu steuern.
 [Zum Repository](https://github.com/Basti8D/sdl-joystick-csharp-wrapper)
 
 #### Hyprland
 
-Eine Konfiguration meines Linux Dualboot System basis von CachyOS mit Hyprland als dynamischen Wayland-Compositor. Die Konfiguration basiert auf den [Dotfiles von EliFouts](https://github.com/elifouts/Dotfiles), die ich nach meinen Bedürfnissen angepasst habe und auch immer noch anpasse.
+Ich habe eine Konfiguration meines Linux Dualboot Systems durgeführt, welches auf CachyOS und Hyprland als dynamischen Wayland-Compositor basiert. Als Ausgangslage der Konfiguration wurden die [Dotfiles von EliFouts](https://github.com/elifouts/Dotfiles) verwendet, die ich nach meinen Bedürfnissen angepasst habe und auch immer noch anpasse.
 
 ### Ausbildung
 
